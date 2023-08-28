@@ -4,14 +4,18 @@
 
 ## Tela Inicial da Aplicação  🖥 🍕 ☕
 
-![pizzajava-login](https://user-images.githubusercontent.com/108489178/209395170-faca8d79-ff16-415a-a28c-5bbdf81f8b3c.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/108489178/209395170-faca8d79-ff16-415a-a28c-5bbdf81f8b3c.png" />
+</p>
 
 
 
 
 ## Menu de Produtos 🍽
 
-![image](https://user-images.githubusercontent.com/108489178/210124398-a4c5a6ac-0472-46d0-911f-a2a70c59efb0.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/108489178/210124398-a4c5a6ac-0472-46d0-911f-a2a70c59efb0.png" />
+</p>
 
 
 
@@ -31,7 +35,7 @@
 
 
 
-## Executando a Aplicação ▶
+### Executando a Aplicação ▶
 
 
 
@@ -43,4 +47,4 @@ Uma forma de executar o programa é por meio do arquivo . jar que se encontra na
 
 ### IDE
 
-É possível executar o programa por meio de uma IDE, nesse caso deve-se adicionar as bibliotecas que se encontram no diretório /lib a estrutura do projeto na IDE.
+É possível executar o programa por meio de uma IDE, nesse caso deve-se adicionar as bibliotecas que se encontram no diretório /lib à estrutura do projeto na IDE.

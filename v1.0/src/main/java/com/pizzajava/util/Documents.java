@@ -14,8 +14,8 @@ public class Documents extends PlainDocument {
     private final int MAX_SIZE;
     private final String REGEX;
     public static final String REGEX_SPECIAL_CHARACTER = "'|\"|!|¹|²|#|³|$|£|%|¢|¨|¬|&|*|(|)||=|+|§|´|`|[|{|ª|~|^|]|}|º|\\|||<|>|;|:|/|?|°";
-    public static final String REGEX_EMAIL = REGEX_SPECIAL_CHARACTER + "|,|-| ";
-    public static final String REGEX_ONLY_NUMBER = REGEX_EMAIL + "|@|_|aA-zZ|.|á|à|â|ã|é|è|ê|í|ï|ó|ô|õ|ö|ú|ç|ñ|Á|À|Â|Ã|É|È|Ê|Í|Ï|Ó|Ô|Õ|Ö|Ú|Ç|Ñ";
+    public static final String REGEX_EMAIL = REGEX_SPECIAL_CHARACTER + "|,| |-";
+    public static final String REGEX_ONLY_NUMBER = REGEX_EMAIL + "|@|_|aA-zZ|.|á|à|â|ã|é|è|ê|í|ï|ó|ô|õ|ö|ú|ç|ñ|Á|À|Â|Ã|É|È|Ê|Í|Ï|Ó|Ô|Õ|Ö|Ú|Ç|Ñ|-";
     public static final String REGEX_STRING_AND_SPACE = REGEX_SPECIAL_CHARACTER + "|@|_|0-9";
     public static final String REGEX_ONLY_STRING = REGEX_STRING_AND_SPACE + "| ";
     
