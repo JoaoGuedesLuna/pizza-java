@@ -1,5 +1,16 @@
 <h1>Pizza Java - Versão 1.0 🍕♨</h1>
-<h3>Funcionalidades</h3>
+<br>
+<h3>🖥 Tela Inicial da Aplicação</h3>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/108489178/209395170-faca8d79-ff16-415a-a28c-5bbdf81f8b3c.png" />
+</p>
+<br>
+<h3>🍽 Menu de Produtos </h3>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/108489178/210124398-a4c5a6ac-0472-46d0-911f-a2a70c59efb0.png" />
+</p>
+<br>
+<h3>🛠 Funcionalidades</h3>
 <ul>
   <li>
     <b>Cadastro:</b> permite aos usuários criar uma conta na aplicação fornecendo informações pessoais.
@@ -29,29 +40,26 @@
     <b>Atualização de dados:</b> essa funcionalidade permite aos usuários atualizar as informações de sua conta, como endereço de entrega, número de telefone, senha e outros detalhes pessoais. 
   </li>
 </ul>
-<h3>Tela Inicial da Aplicação  🖥 🍕 ☕</h3>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/108489178/209395170-faca8d79-ff16-415a-a28c-5bbdf81f8b3c.png" />
-</p>
-<h3>Menu de Produtos 🍽</h3>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/108489178/210124398-a4c5a6ac-0472-46d0-911f-a2a70c59efb0.png" />
-</p>
-<h3>Versão 1.0</h3>
-<p><b>💻 Tecnologias usadas:</b></p>
+<br>
+<h3>👨‍💻 Tecnologias usadas</h3>
 <ul>
   <li>
     ☕ Linguagem <b>Java</b> (JDK 17) tanto para desenvolvimento Back-End como para desenvolvimento Front-End (a IDE usada para o Front-End foi o Netbeans).
   </li>
-  <li>🎲 Banco de Dados <b>H2</b> em memória para o armazenamento de dados.</li>
+  <br>
+  <li>
+    🎲 Banco de Dados <b>H2</b> em memória para o armazenamento de dados.
+  </li>
 </ul>
-<p><b>⚙ Padrões de Projeto:</b></p>
+<br>
+<h3>⚙ Padrões de Projeto</h3>
 <ul>
   <li>
     Padrão de projeto DAO para persistir os dados no banco de dados.
   </li>
 </ul>
-<h3>Executando a Aplicação ▶</h3>
+<br>
+<h3>▶ Executando a Aplicação</h3>
 <h4>.jar</h4>
 <p>
   Uma forma de executar o programa é por meio do arquivo . jar que se encontra na diretório /dist.
