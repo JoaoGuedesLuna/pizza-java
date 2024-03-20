@@ -11,9 +11,19 @@
   <img src="https://user-images.githubusercontent.com/108489178/210123980-7905e7b2-a40a-4b7e-b14f-4ea2707e85c1.png" />
 </p>
 <h2>⬛🟨 Versões</h2>
+<h3>🖥 Desktop</h3>
 <ul align='justify'>
-  <li>🍕 <a href="https://github.com/JoaoGuedesLuna/pizza-java/tree/master/pizza-java-desktop-v1_0">Pizza Java - desktop 1.0</a></li>
-  <li>🍕 <a href="https://github.com/JoaoGuedesLuna/pizza-java/tree/master/pizza-java-desktop-v2_0">Pizza Java - desktop 2.0</a></li>
+  <li>🍕 <a href="https://github.com/JoaoGuedesLuna/pizza-java/tree/master/pizza-java-desktop-v1_0">Pizza Java - Desktop 1.0</a></li>
+  <li>🍕 <a href="https://github.com/JoaoGuedesLuna/pizza-java/tree/master/pizza-java-desktop-v2_0">Pizza Java - Desktop 2.0</a></li>
+  <li>🍕 <a href="https://github.com/JoaoGuedesLuna/pizza-java/tree/master/pizza-java-desktop-v3_0">Pizza Java - Desktop 3.0</a></li>
+</ul>
+<h3>🌐 Web</h3>
+<ul align='justify'>
+  <li>🍕 <a href="https://github.com/JoaoGuedesLuna/pizza-java/tree/master/pizza-java-web-v1_0">Pizza Java - Web 1.0</a></li>
+</ul>
+<h3>🔗 API</h3>
+<ul align='justify'>
+  <li>🍕 <a href="https://github.com/JoaoGuedesLuna/pizza-java/tree/master/pizza-java-api-v1_0">Pizza Java - API 1.0</a></li>
 </ul>
 <h3>Curso de Qualificação Socioprofissional em Programação de Software</h3>
 <p align='justify'>
