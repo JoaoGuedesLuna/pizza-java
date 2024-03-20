@@ -12,8 +12,8 @@
 </p>
 <h2>⬛🟨 Versões</h2>
 <ul align='justify'>
-  <li>🍕 <a href="https://github.com/JoaoGuedesLuna/pizza-java/tree/master/pizza-java-desktop-v1.0">Pizza Java - desktop 1.0</a></li>
-  <li>🍕 <a href="https://github.com/JoaoGuedesLuna/pizza-java/tree/master/pizza-java-desktop-v2.0">Pizza Java - desktop 2.0</a></li>
+  <li>🍕 <a href="https://github.com/JoaoGuedesLuna/pizza-java/tree/master/pizza-java-desktop-v1_0">Pizza Java - desktop 1.0</a></li>
+  <li>🍕 <a href="https://github.com/JoaoGuedesLuna/pizza-java/tree/master/pizza-java-desktop-v2_0">Pizza Java - desktop 2.0</a></li>
 </ul>
 <h3>Curso de Qualificação Socioprofissional em Programação de Software</h3>
 <p align='justify'>
@@ -26,3 +26,4 @@
 <p align='justify'>
   Gostaria de expressar meus sinceros agradecimentos ao professor <a href="https://github.com/jcda2020">João Carlos</a>. Sua dedicação foi fundamental para me proporcionar uma sólida compreensão da linguagem Java.
 </p>
+
